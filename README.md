@@ -1,5 +1,7 @@
 # JSintro
 
-Open the site and see how it works, try the buttons and see what they do!
+This is my first project in Javascript, I cloned a repository from the teacher and changed a few things.
 
-Look at the code in main.js and try to change it. when you have started to read the code there you can check out index.html and style.css to get some context and see what this is all about
+Originally it was one red box that moved diagonally from top left to bottom right
+
+I changed it to a football going trough a goal - not the prettiest - but really fun!
